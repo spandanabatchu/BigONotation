@@ -14,6 +14,7 @@
 		1247CFA92358AA99007C3DA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1247CFA82358AA99007C3DA9 /* Assets.xcassets */; };
 		1247CFAC2358AA99007C3DA9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1247CFAA2358AA99007C3DA9 /* LaunchScreen.storyboard */; };
 		1247CFB72358AA99007C3DA9 /* BigONotationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1247CFB62358AA99007C3DA9 /* BigONotationTests.swift */; };
+		1247CFC22358AAB6007C3DA9 /* Purchase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1247CFC12358AAB6007C3DA9 /* Purchase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		1247CFB22358AA99007C3DA9 /* BigONotationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BigONotationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1247CFB62358AA99007C3DA9 /* BigONotationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigONotationTests.swift; sourceTree = "<group>"; };
 		1247CFB82358AA99007C3DA9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1247CFC12358AAB6007C3DA9 /* Purchase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Purchase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				1247CF9F2358AA98007C3DA9 /* AppDelegate.swift */,
 				1247CFA12358AA98007C3DA9 /* SceneDelegate.swift */,
 				1247CFA32358AA98007C3DA9 /* ViewController.swift */,
+				1247CFC12358AAB6007C3DA9 /* Purchase.swift */,
 				1247CFA52358AA98007C3DA9 /* Main.storyboard */,
 				1247CFA82358AA99007C3DA9 /* Assets.xcassets */,
 				1247CFAA2358AA99007C3DA9 /* LaunchScreen.storyboard */,
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1247CFC22358AAB6007C3DA9 /* Purchase.swift in Sources */,
 				1247CFA42358AA98007C3DA9 /* ViewController.swift in Sources */,
 				1247CFA02358AA98007C3DA9 /* AppDelegate.swift in Sources */,
 				1247CFA22358AA98007C3DA9 /* SceneDelegate.swift in Sources */,
